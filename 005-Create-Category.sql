@@ -8,7 +8,6 @@ CREATE TABLE [Category]
     [Summary] NVARCHAR(2000) NOT NULL,
     [Order] INT NOT NULL,
     [Description] TEXT NOT NULL,
-    [Active] BIT NOT NULL,
     [Featured] BIT NOT NULL,
     CONSTRAINT [PK_Category] PRIMARY KEY ([Id])
 );
