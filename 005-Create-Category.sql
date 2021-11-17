@@ -1,6 +1,6 @@
 USE [balta]
 
-CREATE TABLE [Career]
+CREATE TABLE [Category]
 (
     [Id] UNIQUEIDENTIFIER NOT NULL,
     [Title] NVARCHAR(160) NOT NULL,
