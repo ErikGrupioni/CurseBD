@@ -12,3 +12,4 @@ CREATE TABLE [Category]
     CONSTRAINT [PK_Category] PRIMARY KEY ([Id])
 );
 GO
+// placar para fazer o bem 
